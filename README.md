@@ -19,6 +19,8 @@ git remote add origin git@github.com:aibaiejoy/JSONInterfaceCheck.git
 提交到github
 git push -u origin master
 
+运行 datacheck1.1  看结果
+
 
 
 
