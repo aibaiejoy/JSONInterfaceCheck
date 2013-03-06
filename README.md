@@ -22,5 +22,4 @@
 
     git push -u origin master
 
-下载后运行 index.html 或者访问 [项目首页]( http://aibaiejoy.github.com/JSONInterfaceCheck) 
-看结果
+> 下载后运行 index.html 或者访问 [项目首页]( http://aibaiejoy.github.com/JSONInterfaceCheck) 看结果
